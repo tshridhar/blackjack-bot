@@ -17,6 +17,7 @@ I wanted to capitalize on the popularity of Blackjack as a casino game, and deci
 - [ ] Doubling down
 - [ ] Splitting pairs
 - [ ] Tiebreaker rules
+- [ ] Threading
 ---
 ### Known Issues
 - No Tiebreakers have been implemented.
