@@ -1,8 +1,5 @@
 # Blackjack Bot
 
-Python discord bot that functions as blackjack dealer!
-I wanted to capitalize on the popularity of Blackjack as a card game (the second most popular behind Poker!), and decided to create a bot to give everyone their daily gambling fix!
----
 ### Features
 #### Initial Focus
 - [x] Basic Functionality with simple text commands and simple text responses
